@@ -9,7 +9,6 @@
 // XO("zzoo") => false
 
 // solution date: 2020-09-28
-
 function XO(str) {
   const xoMap = {
     o: 1,
