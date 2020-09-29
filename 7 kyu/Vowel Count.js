@@ -7,5 +7,5 @@
 // solution date: 2020-09-29
 function getCount(str) {
   const match = str.match(/[aeiou]/g);
-  return match ? match.length : null;
+  return match ? match.length : 0;
 }
